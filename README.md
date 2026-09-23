@@ -22,7 +22,7 @@
 
 ### 🎓 About Me
 
-I am a **Computer Science undergraduate (BS CS)** with a deep passion for **Artificial Intelligence, Computer Vision, and full-stack software development**. I enjoy bridging theoretical computer science fundamentals with high-performance, real-world software engineering.
+
 
 My active development and technical interests include:
 - 🧠 **Generative AI & LLM Systems**: Designing domain-specific AI concierges, multi-turn reasoning agents, and structured vision-language pipelines with Google Gemini and modern LLMs.
