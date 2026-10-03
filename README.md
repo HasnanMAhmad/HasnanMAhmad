@@ -25,10 +25,10 @@
 
 
 My active development and technical interests include:
-- 🧠 **Generative AI & LLM Systems**: Designing domain-specific AI concierges, multi-turn reasoning agents, and structured vision-language pipelines with Google Gemini and modern LLMs.
-- 👁️ **Multimodal Computer Vision**: Building multi-layer image recognition workflows, EXIF image normalizations, and high-precision visual matching systems.
-- ⚡ **High-Speed Caching & Databases**: Developing zero-lag local database architectures (SQLite, PostgreSQL) and sub-millisecond retrieval caches.
-- 🚀 **Full-Stack Applications**: Developing interactive, responsive web applications using Python, Streamlit, and FastAPI.
+-  **Generative AI & LLM Systems**: Designing domain-specific AI concierges, multi-turn reasoning agents, and structured vision-language pipelines with Google Gemini and modern LLMs.
+-  **Multimodal Computer Vision**: Building multi-layer image recognition workflows, EXIF image normalizations, and high-precision visual matching systems.
+-  **High-Speed Caching & Databases**: Developing zero-lag local database architectures (SQLite, PostgreSQL) and sub-millisecond retrieval caches.
+-  **Full-Stack Applications**: Developing interactive, responsive web applications using Python, Streamlit, and FastAPI.
 
 ---
 
